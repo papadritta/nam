@@ -24,7 +24,7 @@
 
 >You can setup your NAMADA full node in minutes by using automated script below
 
->Tested on Ubuntu 20.04.5 LTS & Ubuntu 22.04.1 LTS
+>Tested on Ubuntu 22.04.1 LTS
 ```
 wget -O run.sh  https://raw.githubusercontent.com/papadritta/nam/main/box/run.sh && chmod +x run.sh && ./run.sh
 ```
