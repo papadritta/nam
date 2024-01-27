@@ -15,7 +15,8 @@
 
 - docs & wiki [here](https://docs.namada.net/testnets)
 
-- faucet [here](https://faucet.heliax.click)
+- faucet1 [here](https://faucet.heliax.click)
+- faucet2 [here](https://faucet.housefire.luminara.icu)
 
 - namada-explorer [here](https://namada-explorer.0xgen.online)
 
