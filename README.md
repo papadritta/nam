@@ -1,4 +1,5 @@
 # NAMADA (Testnet) one-line script
+<img width="1969" alt="namada" src="https://github.com/papadritta/nam/assets/90826754/d58336e4-c32d-420d-b554-64fd02967170">
 
 ## Recommended hardware requirements
 - CPU: 8 CPU
