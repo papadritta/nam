@@ -81,6 +81,9 @@ printLogo
 # Print a line of dashes
 printLine
 
+## Update packages before installation
+apt-get update
+
 printCyan "Checking and Installing dependencies..." && sleep 1
 # Check for required dependencies and install if missing
 install_if_not_exists "curl"
